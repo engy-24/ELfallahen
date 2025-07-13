@@ -220,7 +220,7 @@ function loved(id) {
 }
 
 function details3() {
-    
+    //======================================
     const location = localStorage.getItem("loc");
     const desc = localStorage.getItem("des");
     const bottom = document.createElement("div");
